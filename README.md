@@ -30,7 +30,7 @@
 
 ###
 
-## 🐍 GitHub Snake
+## 🐍 GitHub Streak
 ![Snake animation](https://github.com/kishore8787/kishore8787/raw/output/snake.svg)
 
-=
+
