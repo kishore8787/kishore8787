@@ -27,3 +27,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore8787&show_icons=true&locale=en&layout=compact" alt="kishore8787" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kishore8787&show_icons=true&locale=en" alt="kishore8787" /></p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kishore8787/kishore8787/output/snake.svg" alt="Snake animation" />
+
+###
