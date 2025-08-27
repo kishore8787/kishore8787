@@ -30,8 +30,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kishore8787/kishore8787/output/snake.svg" alt="Snake animation" />
-
-###
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.3.0
